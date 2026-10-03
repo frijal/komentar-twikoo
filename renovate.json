@@ -5,7 +5,7 @@
   ],
   "packageRules": [
     {
-      "matchPackageNames": ["twikoo"],
+      "matchPackageNames": ["twikoo-vercel"],
       "automerge": true,
       "automergeType": "pr",
       "platformAutomerge": true
